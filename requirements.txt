@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+wfdb
+scipy
+neurokit2
+pdf2image
+pytesseract
+opencv-python
+Pillow
